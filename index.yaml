@@ -15,7 +15,7 @@ entries:
     sources:
     - https://github.com/elastic/elasticsearch
     urls:
-    - https://thanh-101d.github.io/elk-charts-packages/elasticsearch-7.15.0.tgz
+    - https://thanh-101d.github.io/elk-helmchart-packages/elasticsearch-7.15.0.tgz
     version: 7.15.0
   kibana:
   - apiVersion: v1
@@ -32,6 +32,6 @@ entries:
     sources:
     - https://github.com/elastic/kibana
     urls:
-    - https://thanh-101d.github.io/elk-charts-packages/kibana-7.15.0.tgz
+    - https://thanh-101d.github.io/elk-helmchart-packages/kibana-7.15.0.tgz
     version: 7.15.0
 generated: "2021-11-21T10:45:03.2788839+07:00"
